@@ -8,3 +8,6 @@
 
 > Tip: Gebruik een color-picker tool om snel en gemakkelijk de juiste kleuren te bepalen
 > 
+## Verwacht resultaat
+
+![confetti](./opgave.png)

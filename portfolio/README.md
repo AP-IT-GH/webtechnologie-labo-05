@@ -12,3 +12,7 @@ Maak de preview van het flex-box model na.
 * zet © om naar een HTML-entiteit in de footer 
 * de footer is [sticky](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Sticky_footers) en heeft een witte achtergrond en een padding van `2rem`
 * de main heeft een herhalende achtergrond afbeelding (staat bij deze opgave)
+
+## Verwacht resultaat
+
+![portfolio](./opgave.webp)
