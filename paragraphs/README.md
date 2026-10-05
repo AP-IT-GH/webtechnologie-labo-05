@@ -2,11 +2,11 @@
 
 Maak de preview van het flexbox model na.
 
-* de body heeft een `max-width` van `1000px` en staat gecentreerd
+* de inhoud is maximaal `1000px` breed en staat gecentreerd. Maak van de body zelf een flex-container en centreer de kinderen met flexbox.
 * zowel nav als main staan in een flex
 * een `main` met daarin 8 paragrafen met een klasse `.item`
 * main heeft een achtergrondkleur `lightgrey` en een achtergrondafbeelding die wordt herhaald (staat bij deze opgave)
-* het derde .item heeft een achtergrondkleur `rgba(139, 211, 146, 0.5)` en de eerste letter heeft een grote van `200%`
+* elk derde `.item` neemt de volledige breedte in, heeft een achtergrondkleur `rgba(139, 211, 146, 0.5)` en de eerste letter heeft een grootte van `200%`
 * de kleur van de links is `grey`
 * "lees meer" heeft een link naar `#`
 * de breedte van de flex-items is automatisch.

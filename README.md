@@ -29,9 +29,8 @@ webtechnologie/
 ## Oefeningen
 
 1. [playground](playground/)
-2. [articles](articles/)
-3. [paragraphs](paragraphs/)
-4. [portfolio](portfolio/)
-5. [portfolio-grow](portfolio-grow/)
-6. [ecover](ecover/)
-7. [confetti](confetti/)
+2. [paragraphs](paragraphs/)
+3. [portfolio](portfolio/)
+4. [portfolio-grow](portfolio-grow/)
+5. [ecover](ecover/)
+6. [confetti](confetti/)
